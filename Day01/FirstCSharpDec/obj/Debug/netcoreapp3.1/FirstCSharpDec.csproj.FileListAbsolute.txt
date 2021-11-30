@@ -1,0 +1,13 @@
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\Day01\FirstCSharpDec\bin\Debug\netcoreapp3.1\FirstCSharpDec.exe
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\Day01\FirstCSharpDec\bin\Debug\netcoreapp3.1\FirstCSharpDec.deps.json
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\Day01\FirstCSharpDec\bin\Debug\netcoreapp3.1\FirstCSharpDec.runtimeconfig.json
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\Day01\FirstCSharpDec\bin\Debug\netcoreapp3.1\FirstCSharpDec.runtimeconfig.dev.json
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\Day01\FirstCSharpDec\bin\Debug\netcoreapp3.1\FirstCSharpDec.dll
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\Day01\FirstCSharpDec\bin\Debug\netcoreapp3.1\FirstCSharpDec.pdb
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\Day01\FirstCSharpDec\obj\Debug\netcoreapp3.1\FirstCSharpDec.csprojAssemblyReference.cache
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\Day01\FirstCSharpDec\obj\Debug\netcoreapp3.1\FirstCSharpDec.AssemblyInfoInputs.cache
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\Day01\FirstCSharpDec\obj\Debug\netcoreapp3.1\FirstCSharpDec.AssemblyInfo.cs
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\Day01\FirstCSharpDec\obj\Debug\netcoreapp3.1\FirstCSharpDec.csproj.CoreCompileInputs.cache
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\Day01\FirstCSharpDec\obj\Debug\netcoreapp3.1\FirstCSharpDec.dll
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\Day01\FirstCSharpDec\obj\Debug\netcoreapp3.1\FirstCSharpDec.pdb
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\Day01\FirstCSharpDec\obj\Debug\netcoreapp3.1\FirstCSharpDec.genruntimeconfig.cache

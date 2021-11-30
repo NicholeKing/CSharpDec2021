@@ -1,0 +1,13 @@
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\Day01\dictionaryPractice\bin\Debug\netcoreapp3.1\dictionaryPractice.exe
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\Day01\dictionaryPractice\bin\Debug\netcoreapp3.1\dictionaryPractice.deps.json
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\Day01\dictionaryPractice\bin\Debug\netcoreapp3.1\dictionaryPractice.runtimeconfig.json
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\Day01\dictionaryPractice\bin\Debug\netcoreapp3.1\dictionaryPractice.runtimeconfig.dev.json
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\Day01\dictionaryPractice\bin\Debug\netcoreapp3.1\dictionaryPractice.dll
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\Day01\dictionaryPractice\bin\Debug\netcoreapp3.1\dictionaryPractice.pdb
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\Day01\dictionaryPractice\obj\Debug\netcoreapp3.1\dictionaryPractice.csprojAssemblyReference.cache
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\Day01\dictionaryPractice\obj\Debug\netcoreapp3.1\dictionaryPractice.AssemblyInfoInputs.cache
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\Day01\dictionaryPractice\obj\Debug\netcoreapp3.1\dictionaryPractice.AssemblyInfo.cs
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\Day01\dictionaryPractice\obj\Debug\netcoreapp3.1\dictionaryPractice.csproj.CoreCompileInputs.cache
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\Day01\dictionaryPractice\obj\Debug\netcoreapp3.1\dictionaryPractice.dll
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\Day01\dictionaryPractice\obj\Debug\netcoreapp3.1\dictionaryPractice.pdb
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\Day01\dictionaryPractice\obj\Debug\netcoreapp3.1\dictionaryPractice.genruntimeconfig.cache
