@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace classesDemo
 {
@@ -21,6 +22,24 @@ namespace classesDemo
             // You have a health variable that you are able to modify
             // What if your enemy keeps resetting their health to 100? 
             // What if your enemy makes it so their hits take your health down to 0?
+            Reptile Piccolo = new Reptile("Namekian", 2, 185, "green", "smooth", true);
+            Piccolo.feed();
+            Piccolo.ShowStats();
+
+            Bird Kiwi = new Bird("Parrot", 2, 2.5, "green", true);
+
+            // We can hold a list of all things Animal
+            List<Animal> allAnimals = new List<Animal>();
+
+            allAnimals.Add(a);
+            allAnimals.Add(b);
+            allAnimals.Add(Piccolo);
+            allAnimals.Add(Kiwi);
+
+            foreach(Animal anim in allAnimals)
+            {
+                anim.ShowStats();
+            }
         }
     }
 }

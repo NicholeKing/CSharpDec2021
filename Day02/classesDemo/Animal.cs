@@ -4,7 +4,7 @@ namespace classesDemo
 {
     public class Animal
     {
-        private string species;
+        public string species;
         public int numLegs;
         private double weight;
         public double Weight
@@ -42,6 +42,15 @@ namespace classesDemo
             color = clr;
         }
 
+        public Animal(string sp, int legs, double wgt, string clr)
+        {
+            species = sp;
+            numLegs = legs;
+            weight = wgt;
+            isMammal = false;
+            color = clr;
+        }
+
         // public Animal(string clr = "none", int numLegs = 0)
         // {
         //     species = "fjdis";
@@ -52,14 +61,14 @@ namespace classesDemo
         // }
 
         // Methods that the animal can do
-        public void ShowStats()
+        public virtual void ShowStats()
         {
+            Console.WriteLine("*******************");
             Console.WriteLine($"Species:   {species}");
             Console.WriteLine($"# of Legs: {numLegs}");
             Console.WriteLine($"Weight:    {weight} lbs");
             Console.WriteLine($"Mammal:    {isMammal}");
             Console.WriteLine($"Color:     {color}");
-            Console.WriteLine("*******************");
         }
 
         public void feed()
