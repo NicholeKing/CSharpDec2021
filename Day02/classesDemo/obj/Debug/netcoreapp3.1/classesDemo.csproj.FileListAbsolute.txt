@@ -1,0 +1,13 @@
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\day02\classesDemo\bin\Debug\netcoreapp3.1\classesDemo.exe
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\day02\classesDemo\bin\Debug\netcoreapp3.1\classesDemo.deps.json
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\day02\classesDemo\bin\Debug\netcoreapp3.1\classesDemo.runtimeconfig.json
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\day02\classesDemo\bin\Debug\netcoreapp3.1\classesDemo.runtimeconfig.dev.json
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\day02\classesDemo\bin\Debug\netcoreapp3.1\classesDemo.dll
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\day02\classesDemo\bin\Debug\netcoreapp3.1\classesDemo.pdb
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\day02\classesDemo\obj\Debug\netcoreapp3.1\classesDemo.csprojAssemblyReference.cache
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\day02\classesDemo\obj\Debug\netcoreapp3.1\classesDemo.AssemblyInfoInputs.cache
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\day02\classesDemo\obj\Debug\netcoreapp3.1\classesDemo.AssemblyInfo.cs
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\day02\classesDemo\obj\Debug\netcoreapp3.1\classesDemo.csproj.CoreCompileInputs.cache
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\day02\classesDemo\obj\Debug\netcoreapp3.1\classesDemo.dll
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\day02\classesDemo\obj\Debug\netcoreapp3.1\classesDemo.pdb
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\day02\classesDemo\obj\Debug\netcoreapp3.1\classesDemo.genruntimeconfig.cache
