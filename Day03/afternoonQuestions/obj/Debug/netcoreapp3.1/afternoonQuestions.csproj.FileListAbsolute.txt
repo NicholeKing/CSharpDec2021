@@ -1,0 +1,13 @@
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\day03\afternoonQuestions\bin\Debug\netcoreapp3.1\afternoonQuestions.exe
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\day03\afternoonQuestions\bin\Debug\netcoreapp3.1\afternoonQuestions.deps.json
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\day03\afternoonQuestions\bin\Debug\netcoreapp3.1\afternoonQuestions.runtimeconfig.json
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\day03\afternoonQuestions\bin\Debug\netcoreapp3.1\afternoonQuestions.runtimeconfig.dev.json
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\day03\afternoonQuestions\bin\Debug\netcoreapp3.1\afternoonQuestions.dll
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\day03\afternoonQuestions\bin\Debug\netcoreapp3.1\afternoonQuestions.pdb
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\day03\afternoonQuestions\obj\Debug\netcoreapp3.1\afternoonQuestions.csprojAssemblyReference.cache
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\day03\afternoonQuestions\obj\Debug\netcoreapp3.1\afternoonQuestions.AssemblyInfoInputs.cache
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\day03\afternoonQuestions\obj\Debug\netcoreapp3.1\afternoonQuestions.AssemblyInfo.cs
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\day03\afternoonQuestions\obj\Debug\netcoreapp3.1\afternoonQuestions.csproj.CoreCompileInputs.cache
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\day03\afternoonQuestions\obj\Debug\netcoreapp3.1\afternoonQuestions.dll
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\day03\afternoonQuestions\obj\Debug\netcoreapp3.1\afternoonQuestions.pdb
+C:\Users\nicho\Desktop\CodingDojo\ClassMaterial\CSharpDec2021\day03\afternoonQuestions\obj\Debug\netcoreapp3.1\afternoonQuestions.genruntimeconfig.cache

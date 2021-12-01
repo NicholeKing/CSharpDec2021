@@ -21,13 +21,18 @@ namespace classesDay2Demo
             allCharacters.Add(zorbo);
 
             List<ICastMagic> allMagicUsers = new List<ICastMagic>();
-            // foreach(Character c in allCharacters)
-            // {
-            //     if(c.GetType() == Warlock)
-            //     {
-            //         allMagicUsers.Add((ICastMagic)c);
-            //     }
-            // }
+            foreach(Character c in allCharacters)
+            {
+                if(c is ICastMagic)
+                {
+                    allMagicUsers.Add((ICastMagic)c);
+                }
+            }
+
+            foreach(Character a in allMagicUsers)
+            {
+                Console.WriteLine(a.name);
+            }
 
             // allMagicUsers.Add(son);
             // allMagicUsers.Add(zorbo);
