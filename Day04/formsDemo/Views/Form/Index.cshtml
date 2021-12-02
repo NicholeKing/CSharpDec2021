@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
+    <link rel="stylesheet" href="~/css/style.css">
+</head>
+<body>
+    <h1 class="jumbotron">Tell me about your pets</h1>
+    <form action="process" method="post">
+        <div class="form-group">
+            <label for="petName">Pet Name</label>
+            <input type="text" name="petName" class="form-control">
+        </div>
+        <div class="form-group">
+            <label for="petType">Pet Type</label>
+            <input type="text" name="petType" class="form-control">
+        </div>
+        <div class="form-group">
+            <input class="btn btn-primary" type="submit" value="Submit">
+        </div>
+    </form>
+</body>
+</html>
