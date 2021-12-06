@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model Player
+<div class="text-center">
+    <form asp-action="Process" method="post">
+        <div class="form-group">
+            <label>Enter your username</label>
+            <input asp-for="name">
+            <span asp-validation-for="name" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <input type="submit" value="Play" class="btn btn-primary">
+        </div>
+    </form>
+</div>

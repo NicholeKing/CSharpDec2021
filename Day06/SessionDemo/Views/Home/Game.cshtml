@@ -1,0 +1,18 @@
+<h1 class="text-center">Welcome @ViewBag.User.name to Rock Paper Scissors</h1>
+
+<div class="row">
+    <div class="text-center col-6">
+        <h2>@ViewBag.User.name</h2>
+        <h3>@ViewBag.User.hand</h3>
+    </div>
+    <div class="text-center col-6">
+        <h2>@ViewBag.Opponent.name</h2>
+        <h3>@ViewBag.Opponent.hand</h3>
+    </div>
+</div>
+<div class="text-center">
+    <a href="/playRound" class="btn btn-danger">Play round</a>
+    <h2>Score</h2>
+    <h3>@ViewBag.User.name's wins: @ViewBag.PlayerOneWins | @ViewBag.Opponent.name's wins: @ViewBag.PlayerTwoWins | Draws: @ViewBag.Ties</h3>
+    <h3>Total rounds: @ViewBag.TotalPlays</h3>
+</div>
