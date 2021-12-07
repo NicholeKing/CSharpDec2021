@@ -1,0 +1,102 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h2>All games</h2>
+    <table class="table table-striped">
+        <tr>
+            <th>Title</th>
+            <th>Genre</th>
+            <th>Price</th>
+            <th>Rating</th>
+            <th>Platform</th>
+            <th># Players</th>
+        </tr>
+        @{
+            foreach(Game g in ViewBag.AllGames)
+            {
+                <tr>
+                    <td>@g.Title</td>
+                    <td>@g.Genre</td>
+                    <td>$@g.Price.ToString("0.00")</td>
+                    <td>@g.Rating</td>
+                    <td>@g.Platform</td>
+                    <td>@g.minNumPlayers - @g.maxNumPlayers</td>
+                </tr>
+            }
+        }
+    </table>
+    <h2>All Adventure Games</h2>
+    <table class="table table-striped">
+        <tr>
+            <th>Title</th>
+            <th>Genre</th>
+            <th>Price</th>
+            <th>Rating</th>
+            <th>Platform</th>
+            <th># Players</th>
+        </tr>
+        @{
+            foreach(Game g in ViewBag.AdventGames)
+            {
+                <tr>
+                    <td>@g.Title</td>
+                    <td>@g.Genre</td>
+                    <td>$@g.Price.ToString("0.00")</td>
+                    <td>@g.Rating</td>
+                    <td>@g.Platform</td>
+                    <td>@g.minNumPlayers - @g.maxNumPlayers</td>
+                </tr>
+            }
+        }
+    </table>
+    <h2>Games by max number of players</h2>
+    <table class="table table-striped">
+        <tr>
+            <th>Title</th>
+            <th>Genre</th>
+            <th>Price</th>
+            <th>Rating</th>
+            <th>Platform</th>
+            <th># Players</th>
+        </tr>
+        @{
+            foreach(Game g in ViewBag.MaxPlayers)
+            {
+                <tr>
+                    <td>@g.Title</td>
+                    <td>@g.Genre</td>
+                    <td>$@g.Price.ToString("0.00")</td>
+                    <td>@g.Rating</td>
+                    <td>@g.Platform</td>
+                    <td>@g.minNumPlayers - @g.maxNumPlayers</td>
+                </tr>
+            }
+        }
+    </table>
+    <h2>Games under $20</h2>
+    <table class="table table-striped">
+        <tr>
+            <th>Title</th>
+            <th>Genre</th>
+            <th>Price</th>
+            <th>Rating</th>
+            <th>Platform</th>
+            <th># Players</th>
+        </tr>
+        @{
+            foreach(Game g in ViewBag.Under20)
+            {
+                <tr>
+                    <td>@g.Title</td>
+                    <td>@g.Genre</td>
+                    <td>$@g.Price.ToString("0.00")</td>
+                    <td>@g.Rating</td>
+                    <td>@g.Platform</td>
+                    <td>@g.minNumPlayers - @g.maxNumPlayers</td>
+                </tr>
+            }
+        }
+    </table>
+</div>
