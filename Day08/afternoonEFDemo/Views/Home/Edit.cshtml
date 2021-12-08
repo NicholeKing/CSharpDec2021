@@ -1,0 +1,21 @@
+@model Animal
+<h2>Edit @Model.Species</h2>
+<form action="/updateAnimal/@Model.AnimalId" method="post">
+    <div class="form-group">
+        <label for="Species">Species</label>
+        <input asp-for="Species">
+        <span asp-validation-for="Species" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="numLegs">Number of Legs</label>
+        <input asp-for="numLegs">
+        <span asp-validation-for="numLegs" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="isMammal">Is it a mammal?</label>
+        <input asp-for="isMammal">
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Submit">
+    </div>
+</form>

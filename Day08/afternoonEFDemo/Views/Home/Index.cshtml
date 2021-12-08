@@ -1,0 +1,35 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@* An expression tree may not contain a dynamic operation means you forgot your model import *@
+@model Animal
+<div class="text-center">
+    <form action="addAnimal" method="post">
+        <div class="form-group">
+            <label for="Species">Species</label>
+            <input asp-for="Species">
+            <span asp-validation-for="Species" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label for="numLegs">Number of Legs</label>
+            <input asp-for="numLegs">
+            <span asp-validation-for="numLegs" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label for="isMammal">Is it a mammal?</label>
+            <input asp-for="isMammal">
+        </div>
+        <div class="form-group">
+            <input type="submit" value="Submit">
+        </div>
+    </form>
+    <h2>All the animals</h2>
+    <ul>
+        @{
+            foreach(Animal a in ViewBag.AllAnimals)
+            {
+                <li><a href="/animal/@a.AnimalId">@a.Species</a></li>
+            }
+        }
+    </ul>
+</div>
