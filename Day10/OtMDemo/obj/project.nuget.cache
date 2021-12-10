@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hn6xz/HrMBy1AXHTFLLu+N7TXN29JUi0Ar3iwfGTBv6MEckhRVZJTCGlVgU3qavMOo6agfEsnyaoZYEw7bpdBg==",
+  "dgSpecHash": "8p1I2HMfSPV2uUowMRHzLGo3QdB07dsF033/mpiIzq8et6cN2HQw6DrnQWr+6gaUJdXSgvJ3wonIrwcO6wXS0Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nicho\\Desktop\\CodingDojo\\ClassMaterial\\CSharpDec2021\\day08\\efDemo\\efDemo.csproj",
+  "projectFilePath": "C:\\Users\\nicho\\Desktop\\CodingDojo\\ClassMaterial\\CSharpDec2021\\Day10\\OtMDemo\\OtMDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nicho\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\nicho\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

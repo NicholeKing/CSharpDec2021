@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nicho\\Desktop\\CodingDojo\\ClassMaterial\\CSharpDec2021\\day08\\efDemo\\efDemo.csproj": {}
+    "C:\\Users\\nicho\\Desktop\\CodingDojo\\ClassMaterial\\CSharpDec2021\\Day10\\OtMDemo\\OtMDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nicho\\Desktop\\CodingDojo\\ClassMaterial\\CSharpDec2021\\day08\\efDemo\\efDemo.csproj": {
+    "C:\\Users\\nicho\\Desktop\\CodingDojo\\ClassMaterial\\CSharpDec2021\\Day10\\OtMDemo\\OtMDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nicho\\Desktop\\CodingDojo\\ClassMaterial\\CSharpDec2021\\day08\\efDemo\\efDemo.csproj",
-        "projectName": "efDemo",
-        "projectPath": "C:\\Users\\nicho\\Desktop\\CodingDojo\\ClassMaterial\\CSharpDec2021\\day08\\efDemo\\efDemo.csproj",
+        "projectUniqueName": "C:\\Users\\nicho\\Desktop\\CodingDojo\\ClassMaterial\\CSharpDec2021\\Day10\\OtMDemo\\OtMDemo.csproj",
+        "projectName": "OtMDemo",
+        "projectPath": "C:\\Users\\nicho\\Desktop\\CodingDojo\\ClassMaterial\\CSharpDec2021\\Day10\\OtMDemo\\OtMDemo.csproj",
         "packagesPath": "C:\\Users\\nicho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nicho\\Desktop\\CodingDojo\\ClassMaterial\\CSharpDec2021\\day08\\efDemo\\obj\\",
+        "outputPath": "C:\\Users\\nicho\\Desktop\\CodingDojo\\ClassMaterial\\CSharpDec2021\\Day10\\OtMDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nicho\\AppData\\Roaming\\NuGet\\NuGet.Config"
