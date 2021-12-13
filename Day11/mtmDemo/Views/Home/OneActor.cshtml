@@ -1,0 +1,32 @@
+@model Actor
+
+<h1>@Model.FirstName @Model.LastName</h1>
+<h3>Movies Acted In</h3>
+<ul>
+    @{
+        foreach(Cast a in Model.ActedIn)
+        {
+            <li>@a.Movie.Title <a href="/delete/cast/@Model.ActorId/@a.Movie.MovieId">X</a></li>
+        }
+    }
+</ul>
+<a href="/actor/delete/@Model.ActorId" class="btn btn-danger">Delete</a>
+
+<form action="/addToFilm" method="post">
+    <div class="form-group">
+        <label for="MovieId">Add Actor to Cast</label>
+        <select name="MovieId" class="form-control col-4">
+            @{
+                foreach(Movie a in ViewBag.allMovies)
+                {
+                    if(!Model.ActedIn.Any(u => u.MovieId == a.MovieId))
+                    {
+                        <option value="@a.MovieId">@a.Title</option>
+                    }
+                }
+            }
+        </select>
+    </div>
+    <input type="hidden" name="ActorId" value="@Model.ActorId">
+    <input type="submit" value="Add Movie" class="btn btn-info">
+</form>
