@@ -34,10 +34,10 @@ class BST {
             let runner = this.root;
             while(true){
                 // check if the value is smaller
-                if(this.runner.value > newVal){
+                if(runner.value > newVal){
                     // Need to check if there is null to the left
-                    if(this.runner.left == null){
-                        this.runner.left = node;
+                    if(runner.left == null){
+                        runner.left = node;
                         return this;
                     }
                     // We need to go to the left
@@ -45,8 +45,8 @@ class BST {
                 } else {
                     // runner is SMALLER than our value
                     // Need to check if there is null to the right
-                    if(this.runner.right == null){
-                        this.runner.right = node;
+                    if(runner.right == null){
+                        runner.right = node;
                         return this;
                     }
                     // we need to go to the right
